@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank">**Linkedln**</a> / <a href="iritkushwaha2607@gmail.com" target="blank">**Gmail**</a>
 
-- ⚡ Fun fact Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
+- ⚡ Fun fact Enjoying family life and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 
 
 <h3 align="left">Connect with me:</h3>
