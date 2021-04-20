@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeNKa9QjYNP97a8sXhU9BPHM4XwspbqF8YWOwKatX689wSeCMOXHMJQWFbAhFqpOxwids&usqp=CAU" alt="https://www.linkedin.com/in/irit-kushwaha-2607/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeNKa9QjYNP97a8sXhU9BPHM4XwspbqF8YWOwKatX689wSeCMOXHMJQWFbAhFqpOxwids&usqp=CAU" alt="https://www.linkedin.com/in/irit-kushwaha-2607/" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/irit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="irit" height="30" width="40" /></a>
-<a href="https://discord.gg/Irit#4214" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-0j2irEVc_7QbycVFLdV44cjB7NK8bU0vkXgt_0jegQ5H-ihw4f5WnQnVqbhna09st0&usqp=CAU" alt="Irit#4214" height="30" width="40" /></a>
+<a href="https://discord.gg/Irit#4214" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3-0j2irEVc_7QbycVFLdV44cjB7NK8bU0vkXgt_0jegQ5H-ihw4f5WnQnVqbhna09st0&usqp=CAU" alt="Irit#4214" height="30" width="30" /></a>
 </p>
 
 
