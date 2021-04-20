@@ -1,19 +1,19 @@
 <h1 align="center">Hello,hola,नमस्ते 🙏, I'm Irit Kushwaha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irit2607&label=Profile%20views&color=0e75b6&style=flat" alt="irit2607" /> </p>
 
-- 💻 I’m a **self-taught Frontend Developer, Competitive Programmer, and a quick learner who can code in any situation!**
+- 💻 I’m a self-taught Frontend Developer, Competitive Programmer, and a quick learner who can code in any situation!
 
-- 👯 I am open to collaborate **with other Frontend Developers.**
+- 👯 I am open to collaborate with other Frontend Developers.
 
-- 📚 Learning new things, **self driven, hard working and friendly.**
+- 📚 Learning new things, self driven, hard working and friendly.
 
-- ❤️ I love to design **prototypes, build websites.**
+- ❤️ I love to design prototypes and to build websites.
 
-- 💬 Ask me about **Frontend Web development**
+- 💬 Ask me about Frontend Web development
 
-- 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank">**Linkedln**</a> / <a href="Irit#4214" target="blank">**Discord**</a>
+- 📫 How to reach me <a href="https://linkedin.com/in/https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank">**Linkedln**</a> / <a href="iritkushwaha2607@gmail.com" target="blank">**Gmail**</a>
 
-- ⚡ Fun fact **Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.**
+- ⚡ Fun fact Enjoying familylife and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
 
 
 <h3 align="left">Connect with me:</h3>
