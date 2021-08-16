@@ -10,7 +10,7 @@
 
 - ❤️ I love to design prototypes and to build websites.
 
-- 💬 Ask me about Frontend Web development
+- 💬 Ask me about Frontend web development
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank">**Linkedln**</a> 
 - ⚡ Fun fact Enjoying family life and learning new things related to webdesign and webdevelopment is what keeps me alive and kicking.
