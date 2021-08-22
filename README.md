@@ -24,12 +24,8 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=midnight-purple)
 
-  
-<h3>🏆 Github Profile Trophy</h3>
+ 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=midnight-purple&show_icons=true&locale=en" alt="irit2607" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=midnight-purple&show_icons=true&locale=en" alt="irit2607" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=midnight-purple" alt="irit2607" /></p>
