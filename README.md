@@ -22,6 +22,7 @@
   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
+  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=midnight-purple)
 
  
@@ -29,3 +30,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=midnight-purple&show_icons=true&locale=en" alt="irit2607" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=midnight-purple" alt="irit2607" /></p>
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect with me
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/irit-kushwaha-2607/)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/Irit39162592)
+[![](https://img.shields.io/badge/-instagram-purple?style=flat-square)](https://www.instagram.com/__.silenttouch__/?hl=en)
+
