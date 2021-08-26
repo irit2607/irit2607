@@ -34,5 +34,5 @@
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/irit-kushwaha-2607/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/Irit39162592)
-[![](https://img.shields.io/badge/-instagram-purple?style=flat-square)](https://www.instagram.com/__.silenttouch__/?hl=en)
+<!-- [![](https://img.shields.io/badge/-instagram-purple?style=flat-square)](https://www.instagram.com/__.silenttouch__/?hl=en) -->
 
