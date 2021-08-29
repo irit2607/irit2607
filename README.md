@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=26&lines=Hello%2Chola%2C%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I'm+Irit+Kushwaha;I'm+a+Frontened+Developer!)](https://git.io/typing-svg) -->
-<h1 align="center">Hello,hola,नमस्ते 🙏, I'm Irit Kushwaha</h1>
+<h1 align="center">Hello <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" />, I'm Irit Kushwaha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irit2607&label=Profile%20views&color=blueviolet&style=flat" alt="irit2607" /> </p>
 
 - 💻 I’m a self-taught Frontend Developer, Competitive Programmer, and a quick learner who can code in any situation!
@@ -22,6 +22,7 @@
   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
   
+  <h3>💡 My Languages :</h3>
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=midnight-purple)
 
