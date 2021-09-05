@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=midnight-purple" alt="irit2607" /></p>
 
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/irit-kushwaha-2607/)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/Irit39162592)
-<!-- [![](https://img.shields.io/badge/-instagram-purple?style=flat-square)](https://www.instagram.com/__.silenttouch__/?hl=en) -->
+[![](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/irit-kushwaha-2607/)
+[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter)](https://twitter.com/Irit39162592)
+[![](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/__.irit__/?hl=en) 
 
