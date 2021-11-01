@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=26&lines=Hello%2Chola%2C%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F%2C+I'm+Irit+Kushwaha;I'm+a+Frontened+Developer!)](https://git.io/typing-svg) -->
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="60px" />, I'm Irit Kushwaha</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/Kathryn-Jie/Kathryn-Jie/main/wave.gif" width="60px" />, I'm Irit Kushwaha 👩‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irit2607&label=Profile%20views&color=blueviolet&style=flat" alt="irit2607" /> </p>
 
 - 💻 I’m a self-taught Frontend Developer, Competitive Programmer, and a quick learner who can code in any situation!
