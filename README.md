@@ -47,15 +47,16 @@
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
    -->
-  <h3>💡 My Languages :</h3>
+  <h3>💡 My Languages </h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=midnight-purple)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=tokyonight)
 
  
+ <h3> GitHub Stats 👇</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=tokyonight&show_icons=true&locale=en" alt="irit2607" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=midnight-purple&show_icons=true&locale=en" alt="irit2607" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=midnight-purple" alt="irit2607" /></p>
+<h3> Streak 🔥 </h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=tokyonight" alt="irit2607" /></p>
 
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 [![](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irit-kushwaha-2607/)
