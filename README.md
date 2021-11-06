@@ -55,7 +55,7 @@
  <h3> GitHub Stats 👇</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=onedark&show_icons=true&locale=en" alt="irit2607" /></p>
 
-<h3> Streak 🔥🖤 </h3>
+<h3> Streak 🚀 </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=onedark" alt="irit2607" /></p>
 
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
