@@ -49,14 +49,14 @@
    -->
   <h3>💡 My Languages </h3>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irit2607&layout=compact&theme=onedark)
 
  
  <h3> GitHub Stats 👇</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=tokyonight&show_icons=true&locale=en" alt="irit2607" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irit2607&theme=onedark&show_icons=true&locale=en" alt="irit2607" /></p>
 
 <h3> Streak 🔥🖤 </h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=tokyonight" alt="irit2607" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=onedark" alt="irit2607" /></p>
 
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 [![](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irit-kushwaha-2607/)
