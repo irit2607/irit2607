@@ -4,7 +4,7 @@
 
 - 💻 I’m a self-taught Frontend Developer, Competitive Programmer, and a quick learner who can code in any situation!
 
-- 👯 I am open to collaborate with other Frontend Developers.
+- 👯 I am open to collaborate with other Web Developers.
 
 - 📚 Learning new things, self driven, hard working and friendly.
 
