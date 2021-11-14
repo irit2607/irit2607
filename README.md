@@ -58,6 +58,9 @@
 <h3> Streak 🚀 </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=onedark" alt="irit2607" /></p>
 
+<!-- [![](https://activity-graph.herokuapp.com/graph?username=irit2607)](https://github.com/irit2607/github-readme-activity-graph)
+ -->
+
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 [![](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irit-kushwaha-2607/)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/me/stories/public)
