@@ -8,7 +8,7 @@
 
 - 📚 Learning new things, self driven, hard working and friendly.
 
-- ❤️ I love to design prototypes and to build websites.
+- ❤️ I love to design websites.
 
 - 💬 Ask me about Frontend web development
 
