@@ -58,7 +58,7 @@
 <h3> Streak 🚀 </h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irit2607&theme=onedark" alt="irit2607" /></p>
 
-<!-- [![](https://activity-graph.herokuapp.com/graph?username=irit2607)](https://github.com/irit2607/github-readme-activity-graph)
+<!-- [![](https://activity-graph.herokuapp.com/graph?username=irit2607)](https://github.com/irit2607/github-readme-activity-graph) -->
 
 
 ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
