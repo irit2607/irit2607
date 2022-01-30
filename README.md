@@ -14,7 +14,7 @@
 
 - 📫 How to reach me <a href="https://www.linkedin.com/in/irit-kushwaha-2607/" target="blank">**Linkedln**</a> 
 - ⚡ Fun fact - Enjoying family life and learning new things related to webdesign and web development is what keeps me alive and kicking.
-
+<!-- <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/woman-technologist_1f469-200d-1f4bb.png" /> -->
 <!-- </br> 
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
